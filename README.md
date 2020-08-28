@@ -5,10 +5,10 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               8 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+chill-giveaways          8 mins              █████████████████████████   100.0%
 
 ```
 

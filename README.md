@@ -3,6 +3,19 @@
 ## Hello, Im CRZA <img src="https://raw.githubusercontent.com/SudhanPlayz/SudhanPlayz/master/images/WaveIcon.gif" width="30px">
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               11 hrs 11 mins      ███████████████████░░░░░░   78.43% 
+JavaScript               1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.66% 
+Python                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.53% 
+Other                    19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.23% 
+YAML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.43%
+
+```
+
+
 <!--END_SECTION:waka-->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CRZA5&color=blueviolet)

@@ -3,6 +3,11 @@
 <br />
 <br />
 
+[![Amal Zacharia's GitHub stats](https://github-readme-stats.vercel.app/api?username=CRZA5&count_private=true&layout=compact&theme=material-palenight&show_icons=true)](https://github.com/CRZA5)
+
+<br />
+<br />
+
 Hi, I'm a passionate learner from India.
 
 - 🌱 I’m currently learning Kotlin
